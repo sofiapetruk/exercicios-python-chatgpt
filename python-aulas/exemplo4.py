@@ -73,7 +73,7 @@ media_salarial = soma / 4
 i = 0 
 while i < 4:
     if salarios[1] < media_salarial:
-        print(f'Salário R${salarial[i]}:.2f é menor que a Média Salarial')
+        print(f'Salário R${salarios[i]}:.2f é menor que a Média Salarial')
     i += 1 
 
 
