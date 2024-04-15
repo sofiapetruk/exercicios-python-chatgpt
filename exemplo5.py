@@ -1,0 +1,3 @@
+
+salario[]
+soma = 0
