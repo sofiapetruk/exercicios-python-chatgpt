@@ -1,0 +1,1 @@
+#Criar uma funcao parar somar todos os elementos da lista
